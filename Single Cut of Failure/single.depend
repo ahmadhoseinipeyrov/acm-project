@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1545769139 source:/home/hadi/Desktop/ahmad/acm-project/Single Cut of Failure/main.cpp
+	<algorithm>
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<map>
+	<tuple>
+	<vector>
+
