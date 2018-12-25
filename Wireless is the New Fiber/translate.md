@@ -27,3 +27,7 @@ The new communications network will not have any fiber.Instead, it will have wir
 
 شبکه ارتباطی جدید هیچ فیبری نخواهد داشت. در عوض، لینک های بی سیم، هر جفت از گره ها را متصل می کند.
 #
+These links have unbounded bandwidth but are expensive, so it has been decided that as few of these links will be built as possible to provide connectivity.
+
+این لینک ها محدودیت پهنای باند ندارند اما پر خرج و گران هستند، بنابرین تصمیم گرفته شده است که تعداد کمی از این لینک ها برای ایجاد امکان اتصال به اینترنت ساخته شوند.
+#
