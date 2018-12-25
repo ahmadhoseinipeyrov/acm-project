@@ -39,4 +39,7 @@ Moreover, you discovered that the nodes have each been built with a particular n
 
 علاوه بر این، شما متوجه شدید که گره ها با تعداد خاصی از اتصالات ساخته شده اند.
 #
+For each node, if it will be connected to a different number of links than it is today, it will have to be reorganized, and that is costly.
 
+برای هر گره، اگر به تعداد دیگری از لینک ها متصل شود ، باید مجددا سازماندهی شود، و این هزینه بر است.
+#
