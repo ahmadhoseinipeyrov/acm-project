@@ -35,3 +35,8 @@ for each pair of nodes there should be exactly one way to travel between them al
 
 برای هر جفت گره باید دقیقا یک راه برای انتقال بین آنها از طریق لینک های بی سیم باشد.
 #
+Moreover, you discovered that the nodes have each been built with a particular number of connections in mind.
+
+علاوه بر این، شما متوجه شدید که گره ها با تعداد خاصی از اتصالات ساخته شده اند.
+#
+
