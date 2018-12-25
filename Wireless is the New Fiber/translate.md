@@ -31,3 +31,7 @@ These links have unbounded bandwidth but are expensive, so it has been decided t
 
 این لینک ها محدودیت پهنای باند ندارند اما پر خرج و گران هستند، بنابرین تصمیم گرفته شده است که تعداد کمی از این لینک ها برای ایجاد امکان اتصال به اینترنت ساخته شوند.
 #
+for each pair of nodes there should be exactly one way to travel between them along the wireless links.
+
+برای هر جفت گره باید دقیقا یک راه برای انتقال بین آنها از طریق لینک های بی سیم باشد.
+#
