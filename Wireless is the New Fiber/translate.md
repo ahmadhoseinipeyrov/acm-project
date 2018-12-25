@@ -6,3 +6,7 @@ You have been charged with deciding the layout of the new communications network
 
 شما عهده دار تصمیم گیری در مورد طرح شبکه ارتباطی جدید هستید
 #
+The current communications network consists of a set of nodes (which route messages), and links of fiber, each of which connects two different nodes.
+
+شبکه ارتباطی فعلی شامل مجموعه ای از گره ها است (که پیام ها رامسیریابی می کند)، و ارتباطات فیبری، که هر یک دو گره متفاوت را بهم متصل می کند
+#
