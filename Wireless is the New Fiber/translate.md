@@ -10,3 +10,7 @@ The current communications network consists of a set of nodes (which route messa
 
 شبکه ارتباطی فعلی شامل مجموعه ای از گره ها است (که پیام ها رامسیریابی می کند)، و ارتباطات فیبری، که هر یک دو گره متفاوت را بهم متصل می کند
 #
+For each pair of nodes, there exists at least one way (but possibly more, for bandwidth purposes) to travel along the fiber between the two.
+
+برای هر جفت از گره ها، حداقل یک راه موجود است ( اما احتمالا بیشتر، برای اهداف پهنای باند) برای انتقال از طریق فیبر در بین دو گره
+#
