@@ -20,10 +20,10 @@ For each pair of nodes, there exists at least one way (but possibly more, for ba
 
 
 
-#
 
 
-The new communications network will not have any fiber.
 
-شبکه ارتباطی جدید هیچ فیبری نخواهد داشت.
+The new communications network will not have any fiber.Instead, it will have wireless links, each connecting two nodes.
+
+شبکه ارتباطی جدید هیچ فیبری نخواهد داشت. در عوض، لینک های بی سیم، هر جفت از گره ها را متصل می کند.
 #
