@@ -14,3 +14,16 @@ For each pair of nodes, there exists at least one way (but possibly more, for ba
 
 برای هر جفت از گره ها، حداقل یک راه موجود است ( اما احتمالا بیشتر، برای اهداف پهنای باند) برای انتقال از طریق فیبر در بین دو گره
 #
+
+
+
+
+
+
+#
+
+
+The new communications network will not have any fiber.
+
+شبکه ارتباطی جدید هیچ فیبری نخواهد داشت.
+#
