@@ -1,20 +1,54 @@
-# Wireless is the New Fiber
+A new type of unbounded-bandwidth wireless communication has just been tested and proved to be a suitable replacement for the existing, fiber-based communications network, which is struggling to keep up with traffic growth.
 
-A new type of unbounded-bandwidth wireless communication has just been tested and proved to be a suitable replacement for the existing, fiber-based communications network, which is struggling to keep up with traffic growth. You have been charged with deciding the layout of the new communications network. The current communications network consists of a set of nodes (which route messages), and links of fiber, each of which connects two different nodes. For each pair of nodes, there exists at least one way (but possibly more, for bandwidth purposes) to travel along the fiber between the two.
+نوع جدیدی از ارتباط بی سیم پهنای باند-نامحدود به تازگی تست شده و ثابت شده است که جایگزین مناسبی برای شبکه ارتباطی مبتنی بر فیبری است که سعی می کند پا به پای رشد ترافیک ادامه پیدا کند.
+#
+You have been charged with deciding the layout of the new communications network.
 
-The new communications network will not have any fiber. Instead, it will have wireless links, each connecting two nodes. These links have unbounded bandwidth but are expensive, so it has been decided that as few of these links will be built as possible to provide connectivity; for each pair of nodes there should be exactly one way to travel between them along the wireless links. Moreover, you discovered that the nodes have each been built with a particular number of connections in mind. For each node, if it will be connected to a different number of links than it is today, it will have to be reorganized, and that is costly.
+شما عهده دار تصمیم گیری در مورد طرح شبکه ارتباطی جدید هستید
+#
+The current communications network consists of a set of nodes (which route messages), and links of fiber, each of which connects two different nodes.
 
-Your task is to design the new network so that it has precisely one path between each pair of nodes while minimizing the number of nodes that do not have the same number of connections as in the original network. Figure 1 shows the original network and a solution for Sample Input 1.
+شبکه ارتباطی فعلی شامل مجموعه ای از گره ها است (که پیام ها رامسیریابی می کند)، و ارتباطات فیبری، که هر یک دو گره متفاوت را بهم متصل می کند
+#
+For each pair of nodes, there exists at least one way (but possibly more, for bandwidth purposes) to travel along the fiber between the two.
 
-![The original fiber network](https://open.kattis.com/problems/newfiber/file/statement/en/img-0001.png "The original fiber network")
-(a) The original fiber network.
+برای هر جفت از گره ها، حداقل یک راه موجود است ( اما احتمالا بیشتر، برای اهداف پهنای باند) برای انتقال از طریق فیبر در بین دو گره
+#
 
-![](https://open.kattis.com/problems/newfiber/file/statement/en/img-0002.png)
-(b) One possible solution. The number of links has changed for three nodes: 1, 2, and 5.
 
-## Input
-The input begins with a line containing two integers n (2≤n≤104) and m (1≤m≤105), denoting the number of nodes and the number of fiber links in the existing network. The nodes are numbered from 0 to n−1. Each of the next m lines contains two distinct integers ai and bi, denoting the fact that the ith fiber link connects nodes numbered ai and bi. It is guaranteed that for each pair of nodes there exists at least one path connecting the two nodes. Any pair of nodes may have more than one fiber link connecting them.
 
-## Output
 
-Display the smallest number of nodes for which the number of connected links needs to change. Starting on the next line, display a system of connections in the same format as the input. That is, display a line containing the number of nodes (this will be the same as in the input) and the number of wireless links, and then on subsequent lines descriptions of the links. If more than one layout is possible, any valid layout will be accepted.
+
+
+
+
+
+The new communications network will not have any fiber.Instead, it will have wireless links, each connecting two nodes.
+
+شبکه ارتباطی جدید هیچ فیبری نخواهد داشت. در عوض، لینک های بی سیم، هر جفت از گره ها را متصل می کند.
+#
+These links have unbounded bandwidth but are expensive, so it has been decided that as few of these links will be built as possible to provide connectivity.
+
+این لینک ها محدودیت پهنای باند ندارند اما پر خرج و گران هستند، بنابرین تصمیم گرفته شده است که تعداد کمی از این لینک ها برای ایجاد امکان اتصال به اینترنت ساخته شوند.
+#
+for each pair of nodes there should be exactly one way to travel between them along the wireless links.
+
+برای هر جفت گره باید دقیقا یک راه برای انتقال بین آنها از طریق لینک های بی سیم باشد.
+#
+Moreover, you discovered that the nodes have each been built with a particular number of connections in mind.
+
+علاوه بر این، شما متوجه شدید که گره ها با تعداد خاصی از اتصالات ساخته شده اند.
+#
+For each node, if it will be connected to a different number of links than it is today, it will have to be reorganized, and that is costly.
+
+برای هر گره، اگر به تعداد دیگری از لینک ها متصل شود ، باید مجددا سازماندهی شود، و این هزینه بر است.
+#
+Your task is to design the new network so that it has precisely one path between each pair of nodes while minimizing the number of nodes that do not have the same number of connections as in the original network. 
+
+وظیفه شما این است که شبکه جدیدی را طراحی کنید به طوری که دقیقا یک مسیر بین هر جفت گره باشد و تعداد گره هایی که شماره آنها در شبکه اصلی یکسان است حداقل باشد.
+#
+Figure 1 shows the original network and a solution for Sample Input 1.
+
+شکل 1 شبکه اصلی و یک راه حل را برای نمونه ورودی 1 را نشان می دهد.
+#
+
