@@ -47,3 +47,8 @@ Your task is to design the new network so that it has precisely one path between
 
 وظیفه شما این است که شبکه جدیدی را طراحی کنید به طوری که دقیقا یک مسیر بین هر جفت گره باشد و تعداد گره هایی که شماره آنها در شبکه اصلی یکسان است حداقل باشد.
 #
+Figure 1 shows the original network and a solution for Sample Input 1.
+
+شکل 1 شبکه اصلی و یک راه حل را برای نمونه ورودی 1 را نشان می دهد.
+#
+
