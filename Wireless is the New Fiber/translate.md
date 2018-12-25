@@ -43,3 +43,7 @@ For each node, if it will be connected to a different number of links than it is
 
 برای هر گره، اگر به تعداد دیگری از لینک ها متصل شود ، باید مجددا سازماندهی شود، و این هزینه بر است.
 #
+Your task is to design the new network so that it has precisely one path between each pair of nodes while minimizing the number of nodes that do not have the same number of connections as in the original network. 
+
+وظیفه شما این است که شبکه جدیدی را طراحی کنید به طوری که دقیقا یک مسیر بین هر جفت گره باشد و تعداد گره هایی که شماره آنها در شبکه اصلی یکسان است حداقل باشد.
+#
