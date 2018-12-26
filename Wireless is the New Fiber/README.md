@@ -99,4 +99,5 @@ That is, display a line containing the number of nodes (this will be the same as
 یعنی، یک خط حاوی تعداد گره ها را نمایش می دهد ( درست مشابه ورودی خواهد بود) و تعداد لینک های بی سیم، و سپس در خطوط بعدی توصیف لینک ها.
 #
  If more than one layout is possible, any valid layout will be accepted.
+ 
 اگر بیش از یک طرح بندی امکان پذیر باشد، هر طرح بندی معتبر دیگری هم قابل قبول است.
