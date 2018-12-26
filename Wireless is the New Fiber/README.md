@@ -82,6 +82,21 @@ It is guaranteed that for each pair of nodes there exists at least one path conn
 Any pair of nodes may have more than one fiber link connecting them.
 
 هر جفت گره ممکن است دارای بیش از یک پیوند فیبر باشد که آنها را بهم متصل کند.
+# Output
+# خروجی
+
+Display the smallest number of nodes for which the number of connected links needs to change.
+
+کوچکترین تعداد گره ها را که تعداد لینک های متصل آن نیاز به تغییر دارد را نمایش می دهد.
 #
+Starting on the next line, display a system of connections in the same format as the input.
 
+در آغاز خط بعد، سیستمی از لینک ها را در همان قالب مشابه ورودی نمایش می دهد.
 
+#
+That is, display a line containing the number of nodes (this will be the same as in the input)  and the number of wireless links,  and then on subsequent lines descriptions of the links.
+
+یعنی، یک خط حاوی تعداد گره ها را نمایش می دهد ( درست مشابه ورودی خواهد بود) و تعداد لینک های بی سیم، و سپس در خطوط بعدی توصیف لینک ها.
+#
+ If more than one layout is possible, any valid layout will be accepted.
+اگر بیش از یک طرح بندی امکان پذیر باشد، هر طرح بندی معتبر دیگری هم قابل قبول است.
