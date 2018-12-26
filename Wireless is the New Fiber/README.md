@@ -51,9 +51,9 @@ Figure 1 shows the original network and a solution for Sample Input 1.
 
 شکل 1 شبکه اصلی و یک راه حل را برای نمونه ورودی 1 را نشان می دهد.
 
-#Input
+# Input
 
-#ورودی
+# ورودی
 
 The input begins with a line containing two integers n (2≤n≤104) and m (1≤m≤105)
 
