@@ -50,5 +50,38 @@ Your task is to design the new network so that it has precisely one path between
 Figure 1 shows the original network and a solution for Sample Input 1.
 
 شکل 1 شبکه اصلی و یک راه حل را برای نمونه ورودی 1 را نشان می دهد.
+
+#Input
+
+#ورودی
+
+The input begins with a line containing two integers n (2≤n≤104) and m (1≤m≤105)
+
+ورودی با خطی مشتمل بر دو عدد صحیح آغاز می شود n (2≤n≤104) and m (1≤m≤105)
 #
+ denoting the number of nodes and the number of fiber links in the existing network.
+
+نشان دهنده تعداد گره ها و تعداد پیوندهای فیبر موجود در شبکه  است.
+#
+The nodes are numbered from 0 to n−1. 
+
+گره ها ار 0 تا n-1 شمارگذاری شده اند.
+#
+Each of the next m lines contains two distinct integers ai and bi,
+
+هر خط بعدی m شامل دو عدد صحیح متمایز ai و bi است
+#
+denoting the fact that the ith fiber link connects nodes numbered ai and bi.
+
+نشان دهنده این واقعیت است که لینک فیبر iام گره های شماره ai و bi را بهم متصل می کند.
+#
+It is guaranteed that for each pair of nodes there exists at least one path connecting the two nodes. 
+
+تضمین شده است که برای هر جفت گره حداقل یک مسیر وجود دارد که دو گره را متصل می کند.
+#
+Any pair of nodes may have more than one fiber link connecting them.
+
+هر جفت گره ممکن است دارای بیش از یک پیوند فیبر باشد که آنها را بهم متصل کند.
+#
+
 
